@@ -1,0 +1,40 @@
+.container{
+    background-color: black;
+    height: 25rem;
+    width: 10rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#red{
+   height: 7rem;
+   width: 7rem; 
+   background-color: red;
+   border: 2px solid red; 
+   border-radius: 50rem;
+   margin: auto;
+}
+
+#yellow{
+   height: 7rem;
+   width: 7rem; 
+   background-color: yellow;
+   border: 2px solid yellow; 
+   border-radius: 50rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+}
+
+#green{
+   height: 7rem;
+   width: 7rem; 
+   background-color: green;
+   border: 2px solid green; 
+   border-radius: 50rem;
+   margin: auto;
+}
+
